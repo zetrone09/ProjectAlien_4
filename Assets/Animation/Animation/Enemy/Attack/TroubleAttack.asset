@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88b34518d3bcd8349b96a2dacf9c8b83, type: 3}
+  m_Name: TroubleAttack
+  m_EditorClassIdentifier: 
+  attackType: 1
+  attackAnimation: 
+  attackCoolDown: 5
+  maximunAttackAngle: 20
+  minimunAttackAngle: -20
+  maximunAttackDistance: 1
+  minimunAttackDistance: 0.6
